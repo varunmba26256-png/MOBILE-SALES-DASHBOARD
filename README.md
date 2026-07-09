@@ -69,25 +69,7 @@ This dashboard helps businesses monitor sales performance, identify top-performi
 - Pie Charts
 - Maps
 - Tables
-- Slicers
-
----
-
-## 📸 Dashboard Preview
-
-### Overview Dashboard
-
-> *(Add your dashboard screenshot here)*
-
-![Overview](Screenshots/overview.png)
-
----
-
-### Detailed Analysis
-
-> *(Add another dashboard screenshot here)*
-
-![Analysis](Screenshots/analysis.png)
+- Slicer
 
 ---
 
@@ -102,19 +84,6 @@ This dashboard helps businesses monitor sales performance, identify top-performi
 
 ---
 
-## 📂 Repository Structure
-
-```
-Mobile-Sales-Dashboard/
-│
-├── Mobile Sales Dashboard.pbix
-├── README.md
-└── Screenshots/
-    ├── overview.png
-    └── analysis.png
-```
-
----
 
 ## 🎓 Skills Demonstrated
 
@@ -136,14 +105,14 @@ Mobile-Sales-Dashboard/
 
 MBA Candidate 
 
-## Screenshots
+---
 
-<img width="1311" height="737" alt="SUMMARY" src="https://github.com/user-attachments/assets/1e7ef98c-7b56-4f8f-ab6b-df3be57d9f2a" />
-<img width="1310" height="732" alt="PRODUCT ANALYSIS" src="https://github.com/user-attachments/assets/914399ef-ec5e-4ab3-ad17-e0c042f4f899" />
+##Screenshots
 
-<img width="1311" height="747" alt="CUSTOMER SUMMARY" src="https://github.com/user-attachments/assets/b25a0c73-70cc-48ef-b939-4eecec304dc8" />
+<img width="1311" height="737" alt="SUMMARY" src="https://github.com/user-attachments/assets/bae097c4-626b-4cfd-b6cf-29ec75be26dc" />
+<img width="1310" height="732" alt="PRODUCT ANALYSIS" src="https://github.com/user-attachments/assets/3a351532-5c3e-4016-a190-f488b217fd5f" />
 
-
+<img width="1311" height="747" alt="CUSTOMER SUMMARY" src="https://github.com/user-attachments/assets/736b74c0-612d-4bf2-8819-3f9b05c08194" />
 
 
 
